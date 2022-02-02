@@ -1,0 +1,43 @@
+﻿Build started...
+1>------ Build started: Project: Inheritance, Configuration: Debug Win32 ------
+1>Source.cpp
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(65,16): warning C4018: '>': signed/unsigned mismatch
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(74,83): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(114,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(162,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(162,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(227,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(275,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(275,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(342,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(342,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(416,35): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(416,35): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(417,20): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(417,20): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(417,43): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(417,43): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(418,20): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(418,20): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(418,52): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(418,52): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(497,34): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(497,34): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(498,20): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(498,20): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(498,43): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(498,43): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(499,20): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(499,20): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(499,56): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(499,56): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(573,33): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(573,33): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(574,20): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(574,20): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(574,43): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(574,43): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+1>C:\Users\Сергей\source\repos\Inheritance\Inheritance\Source.cpp(604,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+1>Inheritance.vcxproj -> C:\Users\Сергей\source\repos\Inheritance\Debug\Inheritance.exe
+1>Done building project "Inheritance.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
